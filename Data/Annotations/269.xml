@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>269.jpg</filename>
+	<path>D:\CV\CloudClassification\yolov5\data\Cloud\JPEGImages\269.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3984</width>
+		<height>2656</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cumulus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>1127</ymin>
+			<xmax>2993</xmax>
+			<ymax>2656</ymax>
+		</bndbox>
+	</object>
+</annotation>
